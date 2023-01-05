@@ -74,7 +74,7 @@ body {
 }
 
 #diploma-banner {
-    top: 6%;
+    top: 4.5%;
 }
 
 #work_experience-banner {
@@ -155,16 +155,18 @@ body {
     justify-content: center;
     padding: 1vmin;
     border: solid 1vmin #403e36;
-    margin-top: 5vmin;
+    margin-top: 1vmin;
+    margin-right: 1vmin;
+    text-align: center;
 }
 
 .title-education h1 {
-    font-size: 6vmin;
+    font-size: 4.5vmin;
     color: #403e36;
 }
 
 .title-education h2 {
-    font-size: 3vmin;
+    font-size: 2.5vmin;
     color: #575549;
 }
 
